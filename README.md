@@ -1,3 +1,4 @@
+Logr- an amazing project
 SiteNews
 Display new or modified contents from a web site.
 
